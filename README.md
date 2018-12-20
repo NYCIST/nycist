@@ -89,7 +89,7 @@ If you wish to have a repository created or hosted in NYCIST, you have a few opt
 2. If you have an existing public repository that you would like to move to NYCIST, submit an issue and link to your repo.  We'll fork your repo, keep it public or make it private, and give you full access to it in NYCIST.
 	- If you are keeping the new NYCIST repo public, please be sure to keep your original repo but update your README to indicate the new location in NYCIST.
 
-3. Send a message in the #github-projects in the NYCIST Slack requesting a repo for your Github account.  We'll create it and give you access to the repo.
+3. Send a message in the #github-projects channel in the NYCIST Slack requesting a repo for your Github account.  We'll create it and give you access to the repo.
 
 ### Documentation in NYCIST Github
 
