@@ -79,14 +79,16 @@ Any education institution can request to [join Github Education](https://educati
 
 We hope that regardless of your comfort level with `git` and coding largely, that you will share your code, projects, and generally contribute & help others within the community!
 
+If you are not yet a member of the NYCIST Github org, [please submit a request, here](https://github.com/NYCIST/nycist/issues/new?template=Membership_request.md).
+
 ### How to Request Repos in NYCIST
 
 If you wish to have a repository created or hosted in NYCIST, you have a few options:
 
-1. Submit an issue in this NYCIST repository requesting a repo.
+1. [Submit an issue in this NYCIST repository requesting a repo](https://github.com/NYCIST/nycist/issues/new?template=Repo_request.md).
 	- Be sure to provide **all** requested information in the issue template, as this will allow us to create your repo more quickly.
 
-2. If you have an existing public repository that you would like to move to NYCIST, submit an issue and link to your repo.  We'll fork your repo, keep it public or make it private, and give you full access to it in NYCIST.
+2. If you have an existing public repository that you would like to move to NYCIST, [submit an issue and link to your repo](https://github.com/NYCIST/nycist/issues/new?template=Repo_fork_request.md).  We'll fork your repo, keep it public or make it private, and give you full access to it in NYCIST.
 	- If you are keeping the new NYCIST repo public, please be sure to keep your original repo but update your README to indicate the new location in NYCIST.
 
 3. Send a message in the #github-projects channel in the NYCIST Slack requesting a repo for your Github account.  We'll create it and give you access to the repo.
