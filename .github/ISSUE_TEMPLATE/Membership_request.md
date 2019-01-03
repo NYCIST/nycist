@@ -1,6 +1,7 @@
 ---
 name: NYCIST Membership Request
 about: Request to join the NYCIST org
+labels: ":pencil:member add"
 
 ---
 
