@@ -1,7 +1,7 @@
 ---
 name: Repo Request
 about: Request a repo in the NYCIST org
-label: ":new:repo creation"
+labels: ":new:repo creation"
 
 ---
 

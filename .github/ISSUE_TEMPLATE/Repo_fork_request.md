@@ -1,7 +1,7 @@
 ---
 name: Repo Fork Request
 about: Request to fork a repo you've created into the NYCIST org
-label: ":fork_and_knife:repo fork"
+labels: ":fork_and_knife:repo fork"
 
 ---
 
